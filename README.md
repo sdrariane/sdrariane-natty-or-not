@@ -102,3 +102,23 @@ A biblioteca Python de código aberto do [TensorFlow](https://www.tensorflow.org
 [Matplotlib](https://matplotlib.org/ "Matplotlib") é uma biblioteca Python focada na visualização de dados e usada principalmente para criar belos gráficos, plotagens, histogramas e gráficos de barras. É compatível com plotagem de dados de SciPy, NumPy e Pandas. Se você tem experiência no uso de outros tipos de ferramentas gráficas, [Matplotlib](https://matplotlib.org/ "Matplotlib") pode ser a escolha mais intuitiva para você.
 
 </details>
+
+-----
+
+# O que é ETL?
+
+ETL – que significa extrair, transformar, carregar – é um processo de integração de dados que combina, limpa e organiza dados de diversas fontes em um conjunto de dados único e consistente para armazenamento em um data warehouse, data lake ou outro sistema de destino.
+
+Os pipelines de dados ETL fornecem a base para análise de dados e fluxos de trabalho de aprendizado de máquina. Através de uma série de regras de negócios, o ETL limpa e organiza dados para atender a necessidades específicas de business intelligence, como relatórios mensais, mas também pode lidar com análises mais avançadas, que podem melhorar os processos de back-end e as experiências do usuário final.
+
+<details>
+<summary>FAQ</summary>
+
+  ### É difícil?
+Depende da complexidade e/ou qualidade dos dado, dos desafios de integração, da lógica de transformação, eficiência e desempenho além das ferramentas de tecnologia empregadas.
+
+### O que preciso saber?
+Depende do tamanho do DataFrame e do trabalho que você irá ter para formatá-los, padronizá-los, organizá-los, analisá-los... Mas de início saber conceitos de Regex, arquivos JSON/CSV e ferramentas como Excel/ GoogleSheets  com auxílio do SQL, já é o suficiente.
+</details>
+
+--------
